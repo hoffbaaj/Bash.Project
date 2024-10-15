@@ -1,0 +1,11 @@
+info: system is running smoothly
+error: unable to connect to the database
+warning: disk space running low
+error: file not found in directory
+info: user successfully logged in
+debug: checking network connection
+error: failed to authenticate user
+info: server backup completed
+error: memory allocation failed
+warning: high CPU usage detected
+info: all services are operational
